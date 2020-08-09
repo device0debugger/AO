@@ -6,5 +6,10 @@ Installation
 ------------
 
 cd AO
+
+
 g++ AO.cpp
+
+
+
 ./a.out
